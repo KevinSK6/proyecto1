@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.container-fluid {
+	width: 100%;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+
