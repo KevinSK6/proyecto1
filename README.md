@@ -7,3 +7,9 @@ Crear repositiorio
 - git commit -m "Fisrt page"
 - git remote add origin (link)
 - git push origin master 
+
+=
+=
+=
+=
+|
